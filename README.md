@@ -360,4 +360,3 @@ and global connectivity have transformed education.
 </div></section><section id="contact"><h2>Inquiry Form</h2><div class="glass card"><form action="https://formsubmit.co/victorbob025@gmail.com" method="POST"><input type="text" name="name" placeholder="Full Name" required><input type="email" name="email" placeholder="Email Address" required><input type="tel" name="phone" placeholder="Phone Number"><input type="text" name="country" placeholder="Country"><input type="text" name="subject" placeholder="Subject"><textarea name="message" rows="6" placeholder="Write your inquiry..." required></textarea><button type="submit">Submit Inquiry</button>
 
 </form></div></section><footer class="glass"><h3>Educational Existence</h3><p><strong>Creator:</strong> Victor Munisi</p><p><strong>Phone:</strong> +255 613 306 940</p><p><strong>Email:</strong> victorbob025@gmail.com</p><p>© 2026 Educational Existence. All Rights Reserved.</p></footer></body>
-</html>
