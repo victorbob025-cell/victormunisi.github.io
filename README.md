@@ -715,10 +715,13 @@ Admin
 
 <p>
 
-🌹 Welcome to a world where 
+🌹 Welcome to Victor Munisi's world where 
 knowledge becomes power,
 technology meets creativity,
 and every student can shine.
+He is the creator of this website
+Email : victorbob025@gmail.com
+Phone number : +255613306940
 
 Explore AI 🤖, coding 💻,
 science 🔬, mathematics 📐,
